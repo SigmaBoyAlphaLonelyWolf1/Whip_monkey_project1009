@@ -73,7 +73,7 @@ if(TrollerName.value?.length > 0) {
   donatorList.value.sort((a, b)=> b.id - a.id)
   console.log(donatorList.value)
 }else if (TrollerName.value?.length <= 0) {
-  alert('Put your name in lil nigga')
+  alert('Put your name in lil n word')
 }
 
 }
